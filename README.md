@@ -14,6 +14,7 @@ Software Developmet Student at UTAS
 - Applied RAG + LLM APIs for itinerary and tourism text generation
 - Focused on performance targets (<30s generation, 1024×1024 images, concurrent requests)
 - Worked in a team with a real client under confidentiality constraints
+- [GenAI System](./genai-system.md)
 
 ---
 
@@ -23,6 +24,7 @@ Software Developmet Student at UTAS
 - Developed multiple game servers including Voting and Reaction Timer game
 - Implemented real-time game state updates using REST endpoints (tick/input/state model)
 - Integrated frontend (EJS) with backend APIs for game management
+- [API Design](rest-api.md)
 
 ---
 
@@ -34,7 +36,7 @@ Software Developmet Student at UTAS
 - Built custom dictionary database (153K+ words) integrating WordNet, CMU Pronouncing Dictionary, and Wordfreq
 - Implemented automated data pipeline for IPA, frequency, and morphology enrichment
 - Focused on scalable, offline-first architecture for efficient mobile learning experience
-
+- [App Design](vocab-app.md)
 ---
 
 ## Skills
