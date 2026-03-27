@@ -24,7 +24,7 @@ Software Developmet Student at UTAS
 - Developed multiple game servers including Voting and Reaction Timer game
 - Implemented real-time game state updates using REST endpoints (tick/input/state model)
 - Integrated frontend (EJS) with backend APIs for game management
-- [API Design](rest-api.md)
+- [API System](rest-api-system.md)
 
 ---
 
@@ -36,7 +36,7 @@ Software Developmet Student at UTAS
 - Built custom dictionary database (153K+ words) integrating WordNet, CMU Pronouncing Dictionary, and Wordfreq
 - Implemented automated data pipeline for IPA, frequency, and morphology enrichment
 - Focused on scalable, offline-first architecture for efficient mobile learning experience
-- [App Design](vocab-app.md)
+- [App System](vocabulary-app.md)
 ---
 
 ## Skills
